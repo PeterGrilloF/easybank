@@ -372,6 +372,7 @@ footer p {
     flex-direction: row;
     width: 1440px;
     height: 700px;
+    padding: 0 0;
   }
 
   .two {
